@@ -4,4 +4,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="underLine">#BDB8B8</color>
     <color name="purple_200">#FFBB86FC</color>
+    <color name="orange">#FE6900</color>
+    <color name="blue">#FE690D</color>
 </resources>

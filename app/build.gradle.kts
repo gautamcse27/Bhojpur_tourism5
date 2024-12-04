@@ -40,7 +40,11 @@ android {
 
 dependencies {
 
-    implementation("androidx.core:core-ktx:1.9.0")
+    implementation(libs.androidx.core.ktx.v190)
+    implementation(libs.glide)
+    implementation (libs.material.v140)
+    implementation (libs.androidx.constraintlayout.v212)
+    implementation (libs.androidx.viewpager2)
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
